@@ -1,0 +1,1 @@
+Just a sample code, when i take the android introduction class.
